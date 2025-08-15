@@ -1,4 +1,28 @@
-# Legacy Java Pet Store.
+# Examen final
+
+
+
+Descargue este proyecto o ábralo directamente en **GitHub Codespaces**:
+
+El objetivo del examen es **modificar el código** para cumplir con los siguientes criterios:
+
+1. Implementar **cohesión** (35%).
+2. Implementar **arquitectura en capas (layered architecture)** (35%).
+3. Desarrollar utilizando **interfaces en lugar de clases concretas** (30%).
+
+### Reglas generales
+
+1. Mantener la cámara y el micrófono encendidos durante todo el examen.
+2. Compartir la pantalla completa (preferiblemente utilizando una sola pantalla).
+3. No está permitido el uso de LLMs (ChatGPT, Claude, Cursor, Gemini, etc.).
+4. Se permite el uso de Google únicamente para **consultas técnicas** (ejemplo: *¿qué es un servlet?*, *¿qué es un redirect?*).
+5. No se permite el uso de Google para **consultas conceptuales** (ejemplo: *¿qué es cohesión?*, *¿qué es arquitectura en capas?*).
+6. No es necesario que el codigo compile, pero debe ir explicando sus modificaciones para que pueda ser evaluiado
+
+¿Quieres que lo adapte con un tono más **académico/formal** (como si fuera una instrucción universitaria) o más **ejecutivo/directo** (como guía rápida para un examen técnico)?
+
+
+## Legacy Java Pet Store.
 
 El objetivo de este proyecto es proveer un ejemplo de una aplicación antigua implementada con Servlets.
 
